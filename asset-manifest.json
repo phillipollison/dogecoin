@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dogecoin/static/css/main.ec07a7f2.chunk.css",
+    "main.js": "/dogecoin/static/js/main.4e5f0928.chunk.js",
+    "main.js.map": "/dogecoin/static/js/main.4e5f0928.chunk.js.map",
+    "runtime-main.js": "/dogecoin/static/js/runtime-main.f74f6a09.js",
+    "runtime-main.js.map": "/dogecoin/static/js/runtime-main.f74f6a09.js.map",
+    "static/js/2.6939dd8f.chunk.js": "/dogecoin/static/js/2.6939dd8f.chunk.js",
+    "static/js/2.6939dd8f.chunk.js.map": "/dogecoin/static/js/2.6939dd8f.chunk.js.map",
+    "index.html": "/dogecoin/index.html",
+    "static/css/main.ec07a7f2.chunk.css.map": "/dogecoin/static/css/main.ec07a7f2.chunk.css.map",
+    "static/js/2.6939dd8f.chunk.js.LICENSE.txt": "/dogecoin/static/js/2.6939dd8f.chunk.js.LICENSE.txt",
+    "static/media/logo.d0a9496f.png": "/dogecoin/static/media/logo.d0a9496f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74f6a09.js",
+    "static/js/2.6939dd8f.chunk.js",
+    "static/css/main.ec07a7f2.chunk.css",
+    "static/js/main.4e5f0928.chunk.js"
+  ]
+}
